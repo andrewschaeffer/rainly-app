@@ -1,0 +1,400 @@
+@font-face {
+  font-family: "Indie Flower";
+  src: url("../fonts/IndieFlower-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+/* poppins-regular - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("../fonts/poppins-v20-latin-regular.woff2") format("woff2"), url("../fonts/poppins-v20-latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* poppins-500 - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  src: local(""), url("../fonts/poppins-v20-latin-500.woff2") format("woff2"), url("../fonts/poppins-v20-latin-500.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* poppins-600 - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  src: local(""), url("../fonts/poppins-v20-latin-600.woff2") format("woff2"), url("../fonts/poppins-v20-latin-600.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* poppins-700 - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  src: local(""), url("../fonts/poppins-v20-latin-700.woff2") format("woff2"), url("../fonts/poppins-v20-latin-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+body {
+  font-family: "Poppins", sans-serif;
+  line-height: 1.5;
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.container {
+  max-width: 35rem;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 2rem;
+}
+
+.breakout-container {
+  max-width: 35rem;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: none;
+}
+@media screen and (max-width: 400px) {
+  .breakout-container {
+    max-width: 100%;
+    padding: 0;
+  }
+  .breakout-container .weather-address-header {
+    border-right: none;
+    border-left: none;
+    border-radius: 0;
+  }
+}
+
+.primary-title {
+  text-align: center;
+  font-size: 10.8rem;
+  font-family: "Indie Flower", sans-serif;
+  color: hsl(230deg, 71%, 37%);
+}
+
+.weather-address {
+  margin-top: 2.5rem;
+}
+
+.weather-address-header {
+  padding-top: 1.2rem;
+  padding-bottom: 1.2rem;
+  border: 1px solid hsl(230deg, 71%, 37%);
+  border-radius: 4px;
+  background-color: hsl(230deg, 95%, 92%);
+}
+
+.weather-address-card__city-title,
+.weather-address-card__state-title {
+  text-align: center;
+}
+
+.weather-address-card__city-title {
+  font-size: 3rem;
+  text-transform: capitalize;
+}
+
+.weather-address-card__state-title {
+  font-size: 2rem;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+
+.form-container {
+  font-size: 1.6rem;
+}
+
+.form-container__title {
+  color: hsl(230deg, 71%, 37%);
+  font-size: 3rem;
+  margin-top: 2rem;
+}
+
+.form-container__state,
+.form-container__city {
+  display: flex;
+  flex-direction: column;
+  margin-top: 3rem;
+  gap: 0.5rem;
+  position: relative;
+}
+
+.state-label,
+.city-label {
+  color: hsl(230deg, 71%, 37%);
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.form-container__state-option,
+.form-container__city-option {
+  font-size: 1.6rem;
+}
+
+.select {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.6rem;
+  border: 1px solid hsla(0deg, 0%, 0%, 0.45);
+  border-radius: 4px;
+  padding: 0.4em 0.4em;
+  color: hsla(0deg, 0%, 0%, 0.45);
+}
+
+.form-container__state .warning,
+.form-container__city .warning {
+  visibility: hidden;
+  position: absolute;
+}
+
+.form-container__state.failure .warning,
+.form-container__city.failure .warning {
+  fill: hsl(356deg, 100%, 60%);
+  height: 2rem;
+  width: 2rem;
+  position: absolute;
+  top: 45px;
+  right: 20px;
+  visibility: visible;
+}
+
+.form-container__state [class$=-error-message],
+.form-container__city [class$=-error-message] {
+  visibility: hidden;
+  position: absolute;
+}
+
+.form-container__state.failure .state-error-select {
+  border: 3px solid hsl(356deg, 100%, 60%);
+}
+
+.form-container__city.failure .city-error-select {
+  border: 3px solid hsl(356deg, 100%, 60%);
+}
+
+.form-container__state.failure .state-error-message {
+  color: hsl(356deg, 100%, 60%);
+}
+
+.form-container__city.failure .city-error-message {
+  color: hsl(356deg, 100%, 60%);
+}
+
+.form-container__city.failure .error-message {
+  position: absolute;
+  bottom: -26px;
+  visibility: visible;
+}
+
+.form-container__state.failure .error-message {
+  position: absolute;
+  bottom: -26px;
+  visibility: visible;
+}
+
+.select:hover {
+  cursor: pointer;
+}
+
+.form-submit {
+  font-family: "Poppins", sans-serif;
+  margin-top: 4rem;
+  max-width: 100%;
+  width: 100%;
+  padding: 0.4em 0.4em;
+  color: hsl(0deg, 0%, 100%);
+  background-color: hsl(230deg, 71%, 37%);
+  font-weight: 500;
+  font-size: 2.6rem;
+  border: none;
+  border-radius: 4px;
+  transition: background-color 200ms ease-in;
+}
+
+.form-submit:hover {
+  cursor: pointer;
+  background-color: hsl(230deg, 45%, 46%);
+}
+
+.weather-card {
+  margin-top: 2.5rem;
+  display: grid;
+  grid-template-columns: 7fr 6fr;
+  border-radius: 4px;
+  overflow: hidden;
+  position: relative;
+}
+@media screen and (max-width: 350px) {
+  .weather-card {
+    grid-template-columns: 6fr 7fr;
+  }
+}
+
+.weather-card-date-wrapper {
+  padding-left: 1.4rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.weather-card-description-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.weather-card-day {
+  font-size: 3.6rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+@media screen and (max-width: 350px) {
+  .weather-card-day {
+    font-size: 2.6rem;
+  }
+}
+
+.weather-card-month {
+  text-transform: capitalize;
+  font-size: 1.6rem;
+  font-weight: 400;
+  margin-left: 0.2rem;
+}
+
+.weather-card-description-icon {
+  fill: hsl(0deg, 0%, 100%);
+  height: 6rem;
+  width: 6rem;
+}
+
+.weather-card-description {
+  font-size: 1.8rem;
+  line-height: 3.6rem;
+  text-transform: capitalize;
+  color: hsl(0deg, 0%, 100%);
+}
+
+.weather-card-badge--today {
+  position: absolute;
+  display: block;
+  top: 1.4rem;
+  left: 1.4rem;
+  padding: 0.1rem 1rem;
+  background: white;
+  border-radius: 5px;
+  text-transform: capitalize;
+  font-size: 1.6rem;
+  font-weight: 400;
+  visibility: hidden;
+}
+
+.weather-card--dry--today .weather-card-date-wrapper {
+  background: hsl(36deg, 100%, 86%);
+}
+.weather-card--dry--today .weather-card-rain-icon {
+  visibility: hidden;
+  position: absolute;
+}
+.weather-card--dry--today .weather-card-description-wrapper {
+  background-image: linear-gradient(to bottom right, #ffb442 50%, hsl(36deg, 100%, 86%));
+}
+.weather-card--dry--today .weather-card-description {
+  text-shadow: 0.05em 0.05em 0 #ffb442;
+}
+.weather-card--dry--today .weather-card-badge--today {
+  visibility: visible;
+}
+
+.weather-card--dry .weather-card-date-wrapper {
+  background: hsl(36deg, 100%, 86%);
+}
+.weather-card--dry .weather-card-rain-icon {
+  visibility: hidden;
+  position: absolute;
+}
+.weather-card--dry .weather-card-description-wrapper {
+  background-image: linear-gradient(to bottom right, #ffb442 50%, hsl(36deg, 100%, 86%));
+}
+.weather-card--dry .weather-card-description {
+  text-shadow: 0.05em 0.05em 0 #ffb442;
+}
+.weather-card--dry .weather-card-badge--today {
+  visibility: hidden;
+}
+
+.weather-card--rain--today .weather-card-date-wrapper {
+  background: hsl(230deg, 95%, 92%);
+}
+.weather-card--rain--today .weather-card-sun-icon {
+  visibility: hidden;
+  position: absolute;
+}
+.weather-card--rain--today .weather-card-description-wrapper {
+  background-image: linear-gradient(to bottom right, hsl(230deg, 71%, 37%) 50%, hsl(230deg, 95%, 92%));
+}
+.weather-card--rain--today .weather-card-description {
+  text-shadow: 0.05em 0.05em 0 hsl(230deg, 71%, 37%);
+}
+.weather-card--rain--today .weather-card-badge--today {
+  visibility: visible;
+}
+
+.weather-card--rain .weather-card-date-wrapper {
+  background: hsl(230deg, 95%, 92%);
+}
+.weather-card--rain .weather-card-sun-icon {
+  visibility: hidden;
+  position: absolute;
+}
+.weather-card--rain .weather-card-description-wrapper {
+  background-image: linear-gradient(to bottom right, hsl(230deg, 71%, 37%) 50%, hsl(230deg, 95%, 92%));
+}
+.weather-card--rain .weather-card-description {
+  text-shadow: 0.05em 0.05em 0 hsl(230deg, 71%, 37%);
+}
+.weather-card--rain .weather-card-badge--today {
+  visibility: hidden;
+}
+
+main {
+  padding-bottom: 2.5rem;
+}
+
+.footer-section {
+  font-size: 1.6rem;
+  margin-bottom: 2.5rem;
+}
+
+.credits {
+  text-align: center;
+}
+
+.credit-link:link,
+.credit-link:visited {
+  font-weight: 600;
+  font-size: 1.8rem;
+  transition: all 300ms ease-in;
+}
+
+.credit-link:hover,
+.credit-link:active {
+  color: hsl(230deg, 71%, 37%);
+}
+
+/*# sourceMappingURL=style.css.map */

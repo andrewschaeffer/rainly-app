@@ -1,0 +1,129 @@
+@use "aa-index" as i;
+
+//Set default font size for the form container
+.form-container {
+  font-size: i.$text-base;
+}
+
+.form-container__title {
+  color: i.$color-primary;
+  font-size: i.$text-3xl;
+  margin-top: i.$margin-top--20;
+}
+
+.form-container__state,
+.form-container__city {
+  display: flex;
+  flex-direction: column;
+  margin-top: i.$margin-top--30;
+  gap: 0.5rem;
+  position: relative;
+}
+
+.state-label,
+.city-label {
+  color: i.$color-primary;
+  font-weight: i.$font-bold;
+  font-size: i.$text-xl;
+}
+
+//Style fonts in options
+.form-container__state-option,
+.form-container__city-option {
+  font-size: i.$text-base;
+}
+
+.select {
+  font-family: i.$poppins;
+  font-size: i.$text-base;
+  border: 1px solid i.$color-black--a45;
+  border-radius: 4px;
+  padding: 0.4em 0.4em;
+  color: i.$color-black--a45;
+}
+
+//*********Error Message Styles
+//warning icons make first invisible
+.form-container__state .warning,
+.form-container__city .warning {
+  visibility: hidden;
+  position: absolute;
+}
+
+//Style and position error icon - make visible on failure class
+.form-container__state.failure .warning,
+.form-container__city.failure .warning {
+  fill: i.$color-error;
+  height: 2rem;
+  width: 2rem;
+  position: absolute;
+  top: 45px;
+  right: 20px;
+  visibility: visible;
+}
+
+//Make error messages invisible::after
+
+.form-container__state [class$="-error-message"],
+.form-container__city [class$="-error-message"] {
+  visibility: hidden;
+  position: absolute;
+}
+
+.form-container__state.failure .state-error-select {
+  border: 3px solid i.$color-error;
+}
+
+.form-container__city.failure .city-error-select {
+  border: 3px solid i.$color-error;
+}
+
+.form-container__state.failure .state-error-message {
+  color: i.$color-error;
+}
+
+.form-container__city.failure .city-error-message {
+  color: i.$color-error;
+}
+
+.form-container__city.failure .error-message {
+  position: absolute;
+  bottom: -26px;
+  visibility: visible;
+}
+
+.form-container__state.failure .error-message {
+  position: absolute;
+  bottom: -26px;
+  visibility: visible;
+}
+
+//End Error message styles
+
+.select:hover {
+  cursor: pointer;
+}
+
+//form submission button
+.form-submit {
+  font-family: i.$poppins;
+  margin-top: i.$margin-top--40;
+  max-width: 100%;
+  width: 100%;
+  padding: 0.4em 0.4em;
+  color: i.$color-white;
+  background-color: i.$color-primary;
+  font-weight: i.$font-medium;
+  font-size: i.$text-2xl;
+  // letter-spacing: i.$letter-spacing--s;
+  // text-transform: uppercase;
+  border: none;
+  border-radius: 4px;
+  transition: background-color 200ms ease-in;
+}
+
+.form-submit:hover {
+  cursor: pointer;
+
+  background-color: i.$color-primary-hover;
+}

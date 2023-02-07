@@ -1,0 +1,14 @@
+{
+  "name": "rainly",
+  "version": "1.0.0",
+  "description": "weather app",
+  "main": "index.php",
+  "scripts": {
+    "compile": "sass src/sass/main.scss src/css/style.css -w"
+  },
+  "author": "Andrew Schaeffer",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
+}

@@ -1,0 +1,6 @@
+//This allows partials to use variables of the partials listed below
+
+@forward "b-fonts";
+@forward "ab-reset";
+@forward "c-colors";
+@forward "d-utilities";

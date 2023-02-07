@@ -1,0 +1,26 @@
+//Colors
+//To write out HSLA the format is e.g. hsla(200. 20%, 30%, 0.5)
+$color-primary: hsla(230, 71%, 37%, 100%);
+$color-primary-hover: hsla(230, 45%, 46%, 100%);
+$color-primary--neutral: hsla(230, 95%, 92%, 100%);
+$color-primary--dark: hsla(230, 71%, 37%, 34%);
+
+$color-white: hsla(0, 0%, 100%, 100%);
+$color-white--a60: hsla(0, 0%, 100%, 60%);
+$color-black--a45: hsla(0, 0%, 0%, 45%);
+
+$color-secondary: #ffb442;
+$color-secondary--neutral: hsla(36, 100%, 86%, 100%);
+
+$color-error:hsla(356, 100%, 60%, 100%);
+
+$gradient--rain: linear-gradient(
+  to bottom right,
+  $color-primary,
+  $color-primary--neutral
+);
+$gradient--dry: linear-gradient(
+  to bottom right,
+  $color-secondary,
+  $color-secondary--neutral
+);

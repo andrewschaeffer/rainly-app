@@ -1,0 +1,860 @@
+[07-Dec-2022 19:11:48 UTC] PHP Warning:  include_once(includes/dbh.inc.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[07-Dec-2022 19:11:48 UTC] PHP Stack trace:
+[07-Dec-2022 19:11:48 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[07-Dec-2022 19:11:48 UTC] PHP Warning:  include_once(): Failed opening 'includes/dbh.inc.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[07-Dec-2022 19:11:48 UTC] PHP Stack trace:
+[07-Dec-2022 19:11:48 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[07-Dec-2022 19:11:50 UTC] PHP Warning:  include_once(includes/dbh.inc.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[07-Dec-2022 19:11:50 UTC] PHP Stack trace:
+[07-Dec-2022 19:11:50 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[07-Dec-2022 19:11:50 UTC] PHP Warning:  include_once(): Failed opening 'includes/dbh.inc.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[07-Dec-2022 19:11:50 UTC] PHP Stack trace:
+[07-Dec-2022 19:11:50 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[07-Dec-2022 19:11:53 UTC] PHP Warning:  include_once(includes/dbh.inc.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[07-Dec-2022 19:11:53 UTC] PHP Stack trace:
+[07-Dec-2022 19:11:53 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[07-Dec-2022 19:11:53 UTC] PHP Warning:  include_once(): Failed opening 'includes/dbh.inc.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[07-Dec-2022 19:11:53 UTC] PHP Stack trace:
+[07-Dec-2022 19:11:53 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[07-Dec-2022 19:11:54 UTC] PHP Warning:  include_once(includes/dbh.inc.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[07-Dec-2022 19:11:54 UTC] PHP Stack trace:
+[07-Dec-2022 19:11:54 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[07-Dec-2022 19:11:54 UTC] PHP Warning:  include_once(): Failed opening 'includes/dbh.inc.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[07-Dec-2022 19:11:54 UTC] PHP Stack trace:
+[07-Dec-2022 19:11:54 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[07-Dec-2022 19:12:18 UTC] PHP Warning:  include_once(includes/dbh.inc.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[07-Dec-2022 19:12:18 UTC] PHP Stack trace:
+[07-Dec-2022 19:12:18 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[07-Dec-2022 19:12:18 UTC] PHP Warning:  include_once(): Failed opening 'includes/dbh.inc.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[07-Dec-2022 19:12:18 UTC] PHP Stack trace:
+[07-Dec-2022 19:12:18 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[07-Dec-2022 19:12:19 UTC] PHP Warning:  include_once(includes/dbh.inc.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[07-Dec-2022 19:12:19 UTC] PHP Stack trace:
+[07-Dec-2022 19:12:19 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[07-Dec-2022 19:12:19 UTC] PHP Warning:  include_once(): Failed opening 'includes/dbh.inc.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[07-Dec-2022 19:12:19 UTC] PHP Stack trace:
+[07-Dec-2022 19:12:19 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[08-Dec-2022 20:27:47 UTC] PHP Warning:  include_once(includes/dbh.inc.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[08-Dec-2022 20:27:47 UTC] PHP Stack trace:
+[08-Dec-2022 20:27:47 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[08-Dec-2022 20:27:47 UTC] PHP Warning:  include_once(): Failed opening 'includes/dbh.inc.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[08-Dec-2022 20:27:47 UTC] PHP Stack trace:
+[08-Dec-2022 20:27:47 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[08-Dec-2022 20:27:50 UTC] PHP Warning:  include_once(includes/dbh.inc.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[08-Dec-2022 20:27:50 UTC] PHP Stack trace:
+[08-Dec-2022 20:27:50 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[08-Dec-2022 20:27:50 UTC] PHP Warning:  include_once(): Failed opening 'includes/dbh.inc.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[08-Dec-2022 20:27:50 UTC] PHP Stack trace:
+[08-Dec-2022 20:27:50 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[08-Dec-2022 20:28:11 UTC] PHP Warning:  include_once(includes/dbh.inc.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[08-Dec-2022 20:28:11 UTC] PHP Stack trace:
+[08-Dec-2022 20:28:11 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[08-Dec-2022 20:28:11 UTC] PHP Warning:  include_once(): Failed opening 'includes/dbh.inc.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[08-Dec-2022 20:28:11 UTC] PHP Stack trace:
+[08-Dec-2022 20:28:11 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[08-Dec-2022 20:28:11 UTC] PHP Warning:  include_once(includes/dbh.inc.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[08-Dec-2022 20:28:11 UTC] PHP Stack trace:
+[08-Dec-2022 20:28:11 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[08-Dec-2022 20:28:11 UTC] PHP Warning:  include_once(): Failed opening 'includes/dbh.inc.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 2
+[08-Dec-2022 20:28:11 UTC] PHP Stack trace:
+[08-Dec-2022 20:28:11 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[08-Dec-2022 20:29:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:8
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(8): mysqli->__construct('localhost', 'root', '', 'loginsystem')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 8
+[08-Dec-2022 20:29:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:8
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(8): mysqli->__construct('localhost', 'root', '', 'loginsystem')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 8
+[08-Dec-2022 20:33:00 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for local failed: nodename nor servname provided, or not known in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 8
+[08-Dec-2022 20:33:00 UTC] PHP Stack trace:
+[08-Dec-2022 20:33:00 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[08-Dec-2022 20:33:00 UTC] PHP   2. include_once() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:2
+[08-Dec-2022 20:33:00 UTC] PHP   3. mysqli->__construct($hostname = 'local', $username = 'root', $password = 'root') /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:8
+[08-Dec-2022 20:33:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for local failed: nodename nor servname provided, or not known in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:8
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(8): mysqli->__construct('local', 'root', 'root')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 8
+[08-Dec-2022 20:33:00 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for local failed: nodename nor servname provided, or not known in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 8
+[08-Dec-2022 20:33:00 UTC] PHP Stack trace:
+[08-Dec-2022 20:33:00 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[08-Dec-2022 20:33:00 UTC] PHP   2. include_once() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:2
+[08-Dec-2022 20:33:00 UTC] PHP   3. mysqli->__construct($hostname = 'local', $username = 'root', $password = 'root') /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:8
+[08-Dec-2022 20:33:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for local failed: nodename nor servname provided, or not known in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:8
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(8): mysqli->__construct('local', 'root', 'root')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 8
+[08-Dec-2022 20:36:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:18
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(18): mysqli->query('SELECT STATE_NA...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 18
+[08-Dec-2022 20:36:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:18
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(18): mysqli->query('SELECT STATE_NA...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 18
+[08-Dec-2022 20:36:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT STATE_NAME FROM US_STATES WHERE STATE_CODE = 'CA'' at line 1 in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:18
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(18): mysqli->query('USE local; SELE...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 18
+[08-Dec-2022 20:36:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT STATE_NAME FROM US_STATES WHERE STATE_CODE = 'CA'' at line 1 in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:18
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(18): mysqli->query('USE local; SELE...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 18
+[08-Dec-2022 20:37:13 UTC] PHP Parse error:  syntax error, unexpected identifier "CA" in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 17
+[08-Dec-2022 20:37:13 UTC] PHP Parse error:  syntax error, unexpected identifier "CA" in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 17
+[08-Dec-2022 20:37:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT STATE_NAME FROM US_STATES WHERE STATE_CODE = CA' at line 1 in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:18
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(18): mysqli->query('USE local; SELE...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 18
+[08-Dec-2022 20:37:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT STATE_NAME FROM US_STATES WHERE STATE_CODE = CA' at line 1 in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:18
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(18): mysqli->query('USE local; SELE...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 18
+[08-Dec-2022 20:38:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT * FROM US_STATES' at line 1 in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:18
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(18): mysqli->query('USE local; SELE...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 18
+[08-Dec-2022 20:38:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT * FROM US_STATES' at line 1 in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:18
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(18): mysqli->query('USE local; SELE...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 18
+[08-Dec-2022 20:39:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:18
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(18): mysqli->query('SELECT * FROM U...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 18
+[08-Dec-2022 20:39:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:18
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(18): mysqli->query('SELECT * FROM U...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 18
+[08-Dec-2022 20:39:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT * FROM US_STATES' at line 1 in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:18
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(18): mysqli->query('USE local; SELE...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 18
+[08-Dec-2022 20:39:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT * FROM US_STATES' at line 1 in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:18
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(18): mysqli->query('USE local; SELE...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 18
+[08-Dec-2022 20:41:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT * FROM US_STATES' at line 1 in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:18
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(18): mysqli->query('USE local SELEC...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 18
+[08-Dec-2022 20:41:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT * FROM US_STATES' at line 1 in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:18
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(18): mysqli->query('USE local SELEC...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 18
+[08-Dec-2022 20:46:37 UTC] PHP Parse error:  syntax error, unexpected variable "$conn" in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 9
+[08-Dec-2022 20:46:38 UTC] PHP Parse error:  syntax error, unexpected variable "$conn" in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 9
+[08-Dec-2022 20:48:28 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:20
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once()
+#1 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 20
+[08-Dec-2022 20:48:29 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:20
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once()
+#1 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 20
+[08-Dec-2022 21:10:18 UTC] PHP Parse error:  syntax error, unexpected token "<" in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 23
+[08-Dec-2022 21:10:19 UTC] PHP Parse error:  syntax error, unexpected token "<" in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 23
+[08-Dec-2022 21:11:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC' at line 1 in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:17
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(17): mysqli->query('SELECT * FROM U...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 17
+[08-Dec-2022 21:11:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC' at line 1 in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php:17
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php(17): mysqli->query('SELECT * FROM U...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(2): include_once('/Users/andrewsc...')
+#2 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/includes/dbh.inc.php on line 17
+[13-Dec-2022 00:15:41 UTC] PHP Parse error:  syntax error, unexpected token "include" in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 4
+[13-Dec-2022 00:15:43 UTC] PHP Parse error:  syntax error, unexpected token "include" in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 4
+[13-Dec-2022 00:16:21 UTC] PHP Parse error:  syntax error, unexpected token "include" in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 4
+[13-Dec-2022 00:16:22 UTC] PHP Parse error:  syntax error, unexpected token "include" in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 4
+[13-Dec-2022 00:16:55 UTC] PHP Parse error:  syntax error, unexpected token "include" in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 4
+[13-Dec-2022 00:16:56 UTC] PHP Parse error:  syntax error, unexpected token "include" in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 4
+[13-Dec-2022 00:16:58 UTC] PHP Parse error:  syntax error, unexpected token "include" in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 4
+[13-Dec-2022 00:16:58 UTC] PHP Parse error:  syntax error, unexpected token "include" in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 4
+[13-Dec-2022 00:17:43 UTC] PHP Parse error:  syntax error, unexpected token "include" in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 4
+[13-Dec-2022 00:17:43 UTC] PHP Parse error:  syntax error, unexpected token "include" in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 4
+[13-Dec-2022 00:17:57 UTC] PHP Parse error:  syntax error, unexpected token "include" in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 4
+[13-Dec-2022 00:17:58 UTC] PHP Parse error:  syntax error, unexpected token "include" in /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php on line 4
+[13-Dec-2022 00:18:48 UTC] PHP Warning:  include(../model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[13-Dec-2022 00:18:48 UTC] PHP Stack trace:
+[13-Dec-2022 00:18:48 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[13-Dec-2022 00:18:48 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[13-Dec-2022 00:18:48 UTC] PHP Warning:  include(): Failed opening '../model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[13-Dec-2022 00:18:48 UTC] PHP Stack trace:
+[13-Dec-2022 00:18:48 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[13-Dec-2022 00:18:48 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[13-Dec-2022 00:18:48 UTC] PHP Warning:  Undefined variable $results in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 43
+[13-Dec-2022 00:18:48 UTC] PHP Stack trace:
+[13-Dec-2022 00:18:48 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[13-Dec-2022 00:18:48 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[13-Dec-2022 00:18:49 UTC] PHP Warning:  include(../model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[13-Dec-2022 00:18:49 UTC] PHP Stack trace:
+[13-Dec-2022 00:18:49 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[13-Dec-2022 00:18:49 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[13-Dec-2022 00:18:49 UTC] PHP Warning:  include(): Failed opening '../model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[13-Dec-2022 00:18:49 UTC] PHP Stack trace:
+[13-Dec-2022 00:18:49 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[13-Dec-2022 00:18:49 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[13-Dec-2022 00:18:49 UTC] PHP Warning:  Undefined variable $results in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 43
+[13-Dec-2022 00:18:49 UTC] PHP Stack trace:
+[13-Dec-2022 00:18:49 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[13-Dec-2022 00:18:49 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[13-Dec-2022 00:30:30 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/model.php on line 18
+[13-Dec-2022 00:30:33 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/model.php on line 18
+[13-Dec-2022 00:33:13 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/model.php on line 18
+[13-Dec-2022 00:33:15 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/model.php on line 18
+[22-Dec-2022 02:12:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/Applications/Local.app/Contents/Resources/extraResources/lightning-services/php-8.1.9+7/bin/darwin/lib/php/extensions/no-debug-non-zts-20210902/imagick.so' (tried: /Applications/Local.app/Contents/Resources/extraResources/lightning-services/php-8.1.9+7/bin/darwin/lib/php/extensions/no-debug-non-zts-20210902/imagick.so (dlopen(/Applications/Local.app/Contents/Resources/extraResources/lightning-services/php-8.1.9+7/bin/darwin/lib/php/extensions/no-debug-non-zts-20210902/imagick.so, 9): image not found), /Users/runner/work/_temp/local-lightning-php/php-8.1.9/build/lib/php/extensions/no-debug-non-zts-20210902//Applications/Local.app/Contents/Resources/extraResources/lightning-services/php-8.1.9+7/bin/darwin/lib/php/extensions/no-debug-non-zts-20210902/imagick.so.so (dlopen(/Users/runner/work/_temp/local-lightning-php/php-8.1.9/build/lib/php/extensions/no-debug-non-zts-20210902//Applications/Local.app/Contents/Resources/extraResources/lightning-services/php-8.1.9+7/bin/darwin/lib/php/extensions/no-debug-non-zts-20210902/imagick.so.so, 9): image not found)) in Unknown on line 0
+[22-Dec-2022 02:12:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/Applications/Local.app/Contents/Resources/extraResources/lightning-services/php-8.1.9+7/bin/darwin/lib/php/extensions/no-debug-non-zts-20210902/imagick.so' (tried: /Applications/Local.app/Contents/Resources/extraResources/lightning-services/php-8.1.9+7/bin/darwin/lib/php/extensions/no-debug-non-zts-20210902/imagick.so (dlopen(/Applications/Local.app/Contents/Resources/extraResources/lightning-services/php-8.1.9+7/bin/darwin/lib/php/extensions/no-debug-non-zts-20210902/imagick.so, 9): image not found), /Users/runner/work/_temp/local-lightning-php/php-8.1.9/build/lib/php/extensions/no-debug-non-zts-20210902//Applications/Local.app/Contents/Resources/extraResources/lightning-services/php-8.1.9+7/bin/darwin/lib/php/extensions/no-debug-non-zts-20210902/imagick.so.so (dlopen(/Users/runner/work/_temp/local-lightning-php/php-8.1.9/build/lib/php/extensions/no-debug-non-zts-20210902//Applications/Local.app/Contents/Resources/extraResources/lightning-services/php-8.1.9+7/bin/darwin/lib/php/extensions/no-debug-non-zts-20210902/imagick.so.so, 9): image not found)) in Unknown on line 0
+[22-Dec-2022 02:21:16 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/model.php on line 23
+[22-Dec-2022 02:21:18 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/model.php on line 23
+[22-Dec-2022 02:24:52 UTC] PHP Fatal error:  Cannot redeclare weatherDB() (previously declared in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php:4) in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php on line 3
+[22-Dec-2022 02:24:52 UTC] PHP Stack trace:
+[22-Dec-2022 02:24:52 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[22-Dec-2022 02:24:52 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[22-Dec-2022 02:24:52 UTC] PHP   3. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php:3
+[22-Dec-2022 02:24:53 UTC] PHP Fatal error:  Cannot redeclare weatherDB() (previously declared in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php:4) in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php on line 3
+[22-Dec-2022 02:24:53 UTC] PHP Stack trace:
+[22-Dec-2022 02:24:53 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[22-Dec-2022 02:24:53 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[22-Dec-2022 02:24:53 UTC] PHP   3. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php:3
+[29-Dec-2022 01:30:40 UTC] PHP Fatal error:  Cannot redeclare weatherDB() (previously declared in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php:4) in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php on line 3
+[29-Dec-2022 01:30:40 UTC] PHP Stack trace:
+[29-Dec-2022 01:30:40 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 01:30:40 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 01:30:40 UTC] PHP   3. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php:3
+[29-Dec-2022 01:30:41 UTC] PHP Fatal error:  Cannot redeclare weatherDB() (previously declared in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php:4) in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php on line 3
+[29-Dec-2022 01:30:41 UTC] PHP Stack trace:
+[29-Dec-2022 01:30:41 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 01:30:41 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 01:30:41 UTC] PHP   3. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php:3
+[29-Dec-2022 01:31:06 UTC] PHP Fatal error:  Cannot redeclare weatherDB() (previously declared in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php:4) in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php on line 3
+[29-Dec-2022 01:31:06 UTC] PHP Stack trace:
+[29-Dec-2022 01:31:06 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 01:31:06 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 01:31:06 UTC] PHP   3. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php:3
+[29-Dec-2022 01:31:07 UTC] PHP Fatal error:  Cannot redeclare weatherDB() (previously declared in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php:4) in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php on line 3
+[29-Dec-2022 01:31:07 UTC] PHP Stack trace:
+[29-Dec-2022 01:31:07 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 01:31:07 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 01:31:07 UTC] PHP   3. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php:3
+[29-Dec-2022 01:31:35 UTC] PHP Fatal error:  Cannot redeclare weatherDB() (previously declared in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php:4) in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php on line 3
+[29-Dec-2022 01:31:35 UTC] PHP Stack trace:
+[29-Dec-2022 01:31:35 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 01:31:35 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 01:31:35 UTC] PHP   3. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php:3
+[29-Dec-2022 01:31:35 UTC] PHP Fatal error:  Cannot redeclare weatherDB() (previously declared in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php:4) in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php on line 3
+[29-Dec-2022 01:31:35 UTC] PHP Stack trace:
+[29-Dec-2022 01:31:35 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 01:31:35 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 01:31:35 UTC] PHP   3. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php:3
+[29-Dec-2022 01:43:34 UTC] PHP Fatal error:  Cannot redeclare weatherDB() (previously declared in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php:4) in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php on line 3
+[29-Dec-2022 01:43:34 UTC] PHP Stack trace:
+[29-Dec-2022 01:43:34 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 01:43:34 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 01:43:34 UTC] PHP   3. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php:3
+[29-Dec-2022 01:43:35 UTC] PHP Fatal error:  Cannot redeclare weatherDB() (previously declared in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php:4) in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/dbh.inc.php on line 3
+[29-Dec-2022 01:43:35 UTC] PHP Stack trace:
+[29-Dec-2022 01:43:35 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 01:43:35 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 01:43:35 UTC] PHP   3. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php:3
+[29-Dec-2022 12:33:37 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 12:33:37 UTC] PHP Stack trace:
+[29-Dec-2022 12:33:37 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 12:33:37 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 12:33:37 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 12:33:37 UTC] PHP Stack trace:
+[29-Dec-2022 12:33:37 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 12:33:37 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 12:33:38 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 12:33:38 UTC] PHP Stack trace:
+[29-Dec-2022 12:33:38 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 12:33:38 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 12:33:38 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 12:33:38 UTC] PHP Stack trace:
+[29-Dec-2022 12:33:38 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 12:33:38 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 13:59:08 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 13:59:08 UTC] PHP Stack trace:
+[29-Dec-2022 13:59:08 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 13:59:08 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 13:59:08 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 13:59:08 UTC] PHP Stack trace:
+[29-Dec-2022 13:59:08 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 13:59:08 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 13:59:11 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 13:59:11 UTC] PHP Stack trace:
+[29-Dec-2022 13:59:11 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 13:59:11 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 13:59:11 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 13:59:11 UTC] PHP Stack trace:
+[29-Dec-2022 13:59:11 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 13:59:11 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 13:59:15 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 13:59:15 UTC] PHP Stack trace:
+[29-Dec-2022 13:59:15 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 13:59:15 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 13:59:15 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 13:59:15 UTC] PHP Stack trace:
+[29-Dec-2022 13:59:15 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 13:59:15 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 13:59:15 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 13:59:15 UTC] PHP Stack trace:
+[29-Dec-2022 13:59:15 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 13:59:15 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 13:59:15 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 13:59:15 UTC] PHP Stack trace:
+[29-Dec-2022 13:59:15 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 13:59:15 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 13:59:15 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 13:59:15 UTC] PHP Stack trace:
+[29-Dec-2022 13:59:15 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 13:59:15 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 13:59:15 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 13:59:15 UTC] PHP Stack trace:
+[29-Dec-2022 13:59:15 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 13:59:15 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 13:59:15 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 13:59:15 UTC] PHP Stack trace:
+[29-Dec-2022 13:59:15 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 13:59:15 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 13:59:15 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 13:59:15 UTC] PHP Stack trace:
+[29-Dec-2022 13:59:15 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 13:59:15 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 13:59:17 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 13:59:17 UTC] PHP Stack trace:
+[29-Dec-2022 13:59:17 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 13:59:17 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 13:59:17 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 13:59:17 UTC] PHP Stack trace:
+[29-Dec-2022 13:59:17 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 13:59:17 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:27 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:27 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:27 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:27 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:27 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:27 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:27 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:27 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:27 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:27 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:27 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:27 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:27 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:27 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:27 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:27 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:27 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:27 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:27 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:27 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:27 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:27 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:27 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:27 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:27 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:27 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:27 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:27 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:27 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:27 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:27 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:27 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:28 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:28 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:28 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:28 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:28 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:28 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:28 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:28 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:33 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:33 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:33 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:33 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:33 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:33 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:33 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:33 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:33 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:33 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:33 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:33 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:33 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:33 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:33 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:33 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:33 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:33 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:33 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:33 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:33 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:33 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:33 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:33 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:33 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:33 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:33 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:33 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:33 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:33 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:33 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:33 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:33 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:33 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:33 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:33 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:33 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:33 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:33 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:33 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:53 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:53 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:53 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:53 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:53 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:53 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:53 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:53 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:54 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:54 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:54 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:54 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:54 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:54 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:54 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:54 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:54 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:54 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:54 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:54 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:54 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:54 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:54 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:54 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:54 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:54 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:54 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:54 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:54 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:54 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:54 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:54 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:54 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:54 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:54 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:54 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:06:54 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:06:54 UTC] PHP Stack trace:
+[29-Dec-2022 14:06:54 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:06:54 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:07:27 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:07:27 UTC] PHP Stack trace:
+[29-Dec-2022 14:07:27 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:07:27 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:07:27 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:07:27 UTC] PHP Stack trace:
+[29-Dec-2022 14:07:27 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:07:27 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:08:04 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:08:04 UTC] PHP Stack trace:
+[29-Dec-2022 14:08:04 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:08:04 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:08:04 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:08:04 UTC] PHP Stack trace:
+[29-Dec-2022 14:08:04 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:08:04 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:08:07 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:08:07 UTC] PHP Stack trace:
+[29-Dec-2022 14:08:07 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:08:07 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:08:07 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:08:07 UTC] PHP Stack trace:
+[29-Dec-2022 14:08:07 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:08:07 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:21:48 UTC] PHP Warning:  require(src/php/includes/Database.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/states.php on line 2
+[29-Dec-2022 14:21:48 UTC] PHP Stack trace:
+[29-Dec-2022 14:21:48 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/states.php:0
+[29-Dec-2022 14:21:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/php/includes/Database.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/states.php:2
+Stack trace:
+#0 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/states.php on line 2
+[29-Dec-2022 14:21:50 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:21:50 UTC] PHP Stack trace:
+[29-Dec-2022 14:21:50 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:21:50 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:21:50 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:21:50 UTC] PHP Stack trace:
+[29-Dec-2022 14:21:50 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:21:50 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:24:40 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:24:40 UTC] PHP Stack trace:
+[29-Dec-2022 14:24:40 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:24:40 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:24:40 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:24:40 UTC] PHP Stack trace:
+[29-Dec-2022 14:24:40 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:24:40 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:25:00 UTC] PHP Warning:  Array to string conversion in /Users/andrewschaeffer/Local Sites/rainly/app/public/states.php on line 14
+[29-Dec-2022 14:25:00 UTC] PHP Stack trace:
+[29-Dec-2022 14:25:00 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/states.php:0
+[29-Dec-2022 14:25:01 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:25:01 UTC] PHP Stack trace:
+[29-Dec-2022 14:25:01 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:25:01 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:25:01 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:25:01 UTC] PHP Stack trace:
+[29-Dec-2022 14:25:01 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:25:01 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:25:31 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:25:31 UTC] PHP Stack trace:
+[29-Dec-2022 14:25:31 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:25:31 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:25:31 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:25:31 UTC] PHP Stack trace:
+[29-Dec-2022 14:25:31 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:25:31 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:27:29 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:27:29 UTC] PHP Stack trace:
+[29-Dec-2022 14:27:29 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:27:29 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:27:29 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:27:29 UTC] PHP Stack trace:
+[29-Dec-2022 14:27:29 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:27:29 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:27:51 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:27:51 UTC] PHP Stack trace:
+[29-Dec-2022 14:27:51 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:27:51 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:27:51 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:27:51 UTC] PHP Stack trace:
+[29-Dec-2022 14:27:51 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:27:51 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:27:53 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:27:53 UTC] PHP Stack trace:
+[29-Dec-2022 14:27:53 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:27:53 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:27:53 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:27:53 UTC] PHP Stack trace:
+[29-Dec-2022 14:27:53 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:27:53 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:28:06 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:28:06 UTC] PHP Stack trace:
+[29-Dec-2022 14:28:06 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:28:06 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:28:06 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:28:06 UTC] PHP Stack trace:
+[29-Dec-2022 14:28:06 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:28:06 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:28:27 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:28:27 UTC] PHP Stack trace:
+[29-Dec-2022 14:28:27 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:28:27 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:28:27 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:28:27 UTC] PHP Stack trace:
+[29-Dec-2022 14:28:27 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:28:27 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:30:25 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:30:25 UTC] PHP Stack trace:
+[29-Dec-2022 14:30:25 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:30:25 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:30:25 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:30:25 UTC] PHP Stack trace:
+[29-Dec-2022 14:30:25 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:30:25 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:31:24 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:31:24 UTC] PHP Stack trace:
+[29-Dec-2022 14:31:24 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:31:24 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:31:24 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:31:24 UTC] PHP Stack trace:
+[29-Dec-2022 14:31:24 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:31:24 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:31:55 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:31:55 UTC] PHP Stack trace:
+[29-Dec-2022 14:31:55 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:31:55 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:31:55 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:31:55 UTC] PHP Stack trace:
+[29-Dec-2022 14:31:55 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:31:55 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:36:16 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:36:16 UTC] PHP Stack trace:
+[29-Dec-2022 14:36:16 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:36:16 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:36:16 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:36:16 UTC] PHP Stack trace:
+[29-Dec-2022 14:36:16 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:36:16 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:37:32 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:37:32 UTC] PHP Stack trace:
+[29-Dec-2022 14:37:32 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:37:32 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:37:32 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:37:32 UTC] PHP Stack trace:
+[29-Dec-2022 14:37:32 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:37:32 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:39:28 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:39:28 UTC] PHP Stack trace:
+[29-Dec-2022 14:39:28 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:39:28 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:39:28 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:39:28 UTC] PHP Stack trace:
+[29-Dec-2022 14:39:28 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:39:28 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:39:29 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:39:29 UTC] PHP Stack trace:
+[29-Dec-2022 14:39:29 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:39:29 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:39:29 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:39:29 UTC] PHP Stack trace:
+[29-Dec-2022 14:39:29 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:39:29 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:39:39 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:39:39 UTC] PHP Stack trace:
+[29-Dec-2022 14:39:39 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:39:39 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:39:39 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:39:39 UTC] PHP Stack trace:
+[29-Dec-2022 14:39:39 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:39:39 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:39:44 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:39:44 UTC] PHP Stack trace:
+[29-Dec-2022 14:39:44 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:39:44 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 14:39:44 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 14:39:44 UTC] PHP Stack trace:
+[29-Dec-2022 14:39:44 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 14:39:44 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 16:34:02 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 16:34:02 UTC] PHP Stack trace:
+[29-Dec-2022 16:34:02 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 16:34:02 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 16:34:02 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 16:34:02 UTC] PHP Stack trace:
+[29-Dec-2022 16:34:02 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 16:34:02 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 16:34:03 UTC] PHP Warning:  include(src/php/model.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 16:34:03 UTC] PHP Stack trace:
+[29-Dec-2022 16:34:03 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 16:34:03 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 16:34:03 UTC] PHP Warning:  include(): Failed opening 'src/php/model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php on line 3
+[29-Dec-2022 16:34:03 UTC] PHP Stack trace:
+[29-Dec-2022 16:34:03 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 16:34:03 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 17:35:32 UTC] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/Database.php on line 8
+[29-Dec-2022 17:35:32 UTC] PHP Stack trace:
+[29-Dec-2022 17:35:32 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 17:35:32 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 17:35:32 UTC] PHP   3. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php:3
+[29-Dec-2022 17:35:32 UTC] PHP   4. require() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:6
+[29-Dec-2022 17:35:33 UTC] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/includes/Database.php on line 8
+[29-Dec-2022 17:35:33 UTC] PHP Stack trace:
+[29-Dec-2022 17:35:33 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 17:35:33 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 17:35:33 UTC] PHP   3. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php:3
+[29-Dec-2022 17:35:33 UTC] PHP   4. require() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:6
+[29-Dec-2022 17:36:36 UTC] PHP Warning:  Undefined array key "q" in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 8
+[29-Dec-2022 17:36:36 UTC] PHP Stack trace:
+[29-Dec-2022 17:36:36 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 17:36:36 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 17:36:36 UTC] PHP   3. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php:3
+[29-Dec-2022 17:36:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:14
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php(14): PDO->query('SELECT STATE_ID...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php(3): include('/Users/andrewsc...')
+#2 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(3): include('/Users/andrewsc...')
+#3 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 14
+[29-Dec-2022 17:36:36 UTC] PHP Warning:  Undefined array key "q" in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 8
+[29-Dec-2022 17:36:36 UTC] PHP Stack trace:
+[29-Dec-2022 17:36:36 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:0
+[29-Dec-2022 17:36:36 UTC] PHP   2. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php:3
+[29-Dec-2022 17:36:36 UTC] PHP   3. include() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php:3
+[29-Dec-2022 17:36:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:14
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php(14): PDO->query('SELECT STATE_ID...')
+#1 /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/view.php(3): include('/Users/andrewsc...')
+#2 /Users/andrewschaeffer/Local Sites/rainly/app/public/index.php(3): include('/Users/andrewsc...')
+#3 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 14
+[29-Dec-2022 19:16:45 UTC] PHP Warning:  require(src/php/includes/Database.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[29-Dec-2022 19:16:45 UTC] PHP Stack trace:
+[29-Dec-2022 19:16:45 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[29-Dec-2022 19:16:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/php/includes/Database.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[29-Dec-2022 19:18:42 UTC] PHP Warning:  require(src/php/includes/Database.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/Cities.php on line 6
+[29-Dec-2022 19:18:42 UTC] PHP Stack trace:
+[29-Dec-2022 19:18:42 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/Cities.php:0
+[29-Dec-2022 19:18:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/php/includes/Database.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/Cities.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/views/Cities.php on line 6
+[30-Dec-2022 19:45:11 UTC] PHP Warning:  require(src/php/includes/Database.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 19:45:11 UTC] PHP Stack trace:
+[30-Dec-2022 19:45:11 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[30-Dec-2022 19:45:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/php/includes/Database.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 19:46:14 UTC] PHP Warning:  require(src/php/includes/Database.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 19:46:14 UTC] PHP Stack trace:
+[30-Dec-2022 19:46:14 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[30-Dec-2022 19:46:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/php/includes/Database.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 19:46:54 UTC] PHP Warning:  require(src/php/includes/Database.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 19:46:54 UTC] PHP Stack trace:
+[30-Dec-2022 19:46:54 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[30-Dec-2022 19:46:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/php/includes/Database.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 19:48:18 UTC] PHP Warning:  require(src/php/includes/Database.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 19:48:18 UTC] PHP Stack trace:
+[30-Dec-2022 19:48:18 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[30-Dec-2022 19:48:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/php/includes/Database.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 19:49:01 UTC] PHP Warning:  require(src/php/includes/Database.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 19:49:01 UTC] PHP Stack trace:
+[30-Dec-2022 19:49:01 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[30-Dec-2022 19:49:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/php/includes/Database.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 21:33:05 UTC] PHP Warning:  require(src/php/includes/Database.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 21:33:05 UTC] PHP Stack trace:
+[30-Dec-2022 21:33:05 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[30-Dec-2022 21:33:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/php/includes/Database.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 21:34:17 UTC] PHP Warning:  require(src/php/includes/Database.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 21:34:17 UTC] PHP Stack trace:
+[30-Dec-2022 21:34:17 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[30-Dec-2022 21:34:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/php/includes/Database.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 21:35:25 UTC] PHP Warning:  require(src/php/includes/Database.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 21:35:25 UTC] PHP Stack trace:
+[30-Dec-2022 21:35:25 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[30-Dec-2022 21:35:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/php/includes/Database.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 21:35:48 UTC] PHP Warning:  require(src/php/includes/Database.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 21:35:48 UTC] PHP Stack trace:
+[30-Dec-2022 21:35:48 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[30-Dec-2022 21:35:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/php/includes/Database.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 21:39:03 UTC] PHP Warning:  require(src/php/includes/Database.php): Failed to open stream: No such file or directory in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 21:39:03 UTC] PHP Stack trace:
+[30-Dec-2022 21:39:03 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[30-Dec-2022 21:39:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/php/includes/Database.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 6
+[30-Dec-2022 21:58:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:18
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 18
+[30-Dec-2022 21:58:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:18
+Stack trace:
+#0 /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 18
+[31-Dec-2022 14:26:36 UTC] PHP Warning:  Undefined variable $q in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 18
+[31-Dec-2022 14:26:36 UTC] PHP Stack trace:
+[31-Dec-2022 14:26:36 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[31-Dec-2022 14:28:34 UTC] PHP Warning:  Array to string conversion in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 24
+[31-Dec-2022 14:28:34 UTC] PHP Stack trace:
+[31-Dec-2022 14:28:34 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[31-Dec-2022 14:28:53 UTC] PHP Warning:  Array to string conversion in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 24
+[31-Dec-2022 14:28:53 UTC] PHP Stack trace:
+[31-Dec-2022 14:28:53 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[31-Dec-2022 14:31:11 UTC] PHP Warning:  Attempt to read property "ID" on array in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 25
+[31-Dec-2022 14:31:11 UTC] PHP Stack trace:
+[31-Dec-2022 14:31:11 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[31-Dec-2022 14:51:47 UTC] PHP Warning:  Undefined array key "CITY" in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 42
+[31-Dec-2022 14:51:47 UTC] PHP Stack trace:
+[31-Dec-2022 14:51:47 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[31-Dec-2022 14:52:02 UTC] PHP Warning:  Undefined array key "city" in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 42
+[31-Dec-2022 14:52:02 UTC] PHP Stack trace:
+[31-Dec-2022 14:52:02 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[31-Dec-2022 14:52:46 UTC] PHP Warning:  Undefined array key "CITY" in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 42
+[31-Dec-2022 14:52:46 UTC] PHP Stack trace:
+[31-Dec-2022 14:52:46 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[31-Dec-2022 15:22:08 UTC] PHP Warning:  Undefined array key "CITY" in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 42
+[31-Dec-2022 15:22:08 UTC] PHP Stack trace:
+[31-Dec-2022 15:22:08 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[31-Dec-2022 15:34:16 UTC] PHP Warning:  Array to string conversion in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 42
+[31-Dec-2022 15:34:16 UTC] PHP Stack trace:
+[31-Dec-2022 15:34:16 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[31-Dec-2022 15:34:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function string() in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:42
+Stack trace:
+#0 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 42
+[31-Dec-2022 15:41:59 UTC] PHP Warning:  Undefined array key "CITY" in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 42
+[31-Dec-2022 15:41:59 UTC] PHP Stack trace:
+[31-Dec-2022 15:41:59 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[31-Dec-2022 15:47:57 UTC] PHP Warning:  Undefined array key "CITY" in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 42
+[31-Dec-2022 15:47:57 UTC] PHP Stack trace:
+[31-Dec-2022 15:47:57 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[31-Dec-2022 18:46:04 UTC] PHP Warning:  Array to string conversion in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 48
+[31-Dec-2022 18:46:04 UTC] PHP Stack trace:
+[31-Dec-2022 18:46:04 UTC] PHP   1. {main}() /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:0
+[31-Dec-2022 18:48:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function type() in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php:48
+Stack trace:
+#0 {main}
+  thrown in /Users/andrewschaeffer/Local Sites/rainly/app/public/src/php/models/Cities.php on line 48

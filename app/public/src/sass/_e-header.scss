@@ -1,0 +1,65 @@
+//This is the Rainly App page
+@use "aa-index" as i;
+
+//Default Font Size for page
+
+.container {
+  max-width: i.$page-width;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 2rem;
+}
+
+.breakout-container {
+  max-width: i.$page-width;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: none;
+
+  @include i.media-small {
+    max-width: 100%;
+    padding: 0;
+
+    & .weather-address-header {
+      border-right: none;
+      border-left: none;
+      border-radius: 0;
+    }
+  }
+}
+//Rainly header
+.primary-title {
+  text-align: center;
+  font-size: i.$text-8xl;
+  font-family: i.$h1-font-family;
+  color: i.$color-primary;
+  // line-height: 1.5;
+}
+
+//Header for weather cards
+.weather-address {
+  margin-top: i.$margin-top--25;
+}
+
+.weather-address-header {
+  padding-top: 1.2rem;
+  padding-bottom: 1.2rem;
+  border: 1px solid i.$color-primary;
+  border-radius: 4px;
+  background-color: i.$color-primary--neutral;
+}
+
+.weather-address-card__city-title,
+.weather-address-card__state-title {
+  text-align: center;
+}
+
+.weather-address-card__city-title {
+  font-size: i.$text-3xl;
+  text-transform: capitalize;
+}
+.weather-address-card__state-title {
+  font-size: i.$text-xl;
+  font-weight: i.$font-normal;
+  text-transform: capitalize;
+}

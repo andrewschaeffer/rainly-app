@@ -1,0 +1,171 @@
+@use "aa-index" as i;
+
+//Custom variables
+$padding-left-weather-card: 1.4rem;
+
+//WEATHER CARDS
+
+//******** General styling ***********
+
+.weather-card {
+  margin-top: i.$margin-top--25;
+  display: grid;
+  grid-template-columns: 7fr 6fr;
+  border-radius: 4px;
+  overflow: hidden;
+  position: relative;
+  @include i.media-xsmall {
+    grid-template-columns: 6fr 7fr;
+  }
+}
+
+.weather-card-date-wrapper {
+  padding-left: $padding-left-weather-card;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.weather-card-description-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.weather-card-day {
+  font-size: i.$text-4xl;
+  font-weight: i.$font-semibold;
+  text-transform: uppercase;
+  @include i.media-xsmall {
+    font-size: i.$text-2xl;
+  }
+}
+
+.weather-card-month {
+  text-transform: capitalize;
+  font-size: i.$text-base;
+  font-weight: i.$font-normal;
+  margin-left: 0.2rem;
+}
+
+.weather-card-description-icon {
+  fill: i.$color-white;
+  height: 6rem;
+  width: 6rem;
+}
+
+.weather-card-description {
+  font-size: i.$text-lg;
+  line-height: i.$text-lg * 2;
+  text-transform: capitalize;
+  color: i.$color-white;
+}
+
+.weather-card-badge--today {
+  position: absolute;
+  display: block;
+  top: $padding-left-weather-card;
+  left: $padding-left-weather-card;
+  padding: 0.1rem 1rem;
+  background: white;
+  border-radius: 5px;
+  text-transform: capitalize;
+  font-size: i.$text-base;
+  font-weight: i.$font-normal;
+  visibility: hidden;
+}
+
+//************ Individual styling **********
+
+// **** Mixins ****
+
+//dry card mixin
+@mixin dry-card() {
+  .weather-card-date-wrapper {
+    background: i.$color-secondary--neutral;
+  }
+
+  .weather-card-rain-icon {
+    visibility: hidden;
+    position: absolute;
+  }
+
+  .weather-card-description-wrapper {
+    background-image: linear-gradient(
+      to bottom right,
+      i.$color-secondary 50%,
+      i.$color-secondary--neutral
+    );
+  }
+
+  .weather-card-description {
+    text-shadow: 0.05em 0.05em 0 i.$color-secondary;
+  }
+}
+
+//rain card mixin
+
+@mixin rain-card() {
+  .weather-card-date-wrapper {
+    background: i.$color-primary--neutral;
+  }
+
+  .weather-card-sun-icon {
+    visibility: hidden;
+    position: absolute;
+  }
+
+  .weather-card-description-wrapper {
+    //background: i.$color-secondary;
+    background-image: linear-gradient(
+      to bottom right,
+      i.$color-primary 50%,
+      i.$color-primary--neutral
+    );
+  }
+
+  .weather-card-description {
+    text-shadow: 0.05em 0.05em 0 i.$color-primary;
+  }
+}
+
+//**** Individual cards ******
+
+//Weather-card--dry--today
+.weather-card--dry--today {
+  @include dry-card();
+
+  .weather-card-badge--today {
+    visibility: visible;
+  }
+}
+
+//weather-card--dry
+.weather-card--dry {
+  @include dry-card();
+
+  .weather-card-badge--today {
+    visibility: hidden;
+  }
+}
+
+//weather-card--rain--today
+.weather-card--rain--today {
+  @include rain-card();
+
+  .weather-card-badge--today {
+    visibility: visible;
+  }
+}
+
+//weather-card--rain
+.weather-card--rain {
+  @include rain-card();
+
+  .weather-card-badge--today {
+    visibility: hidden;
+  }
+}

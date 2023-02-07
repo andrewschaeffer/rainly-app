@@ -1,0 +1,64 @@
+@use "sass:map";
+
+//UTILITIES
+
+//This sets the page width
+$page-width: 35rem; //was 27
+
+//*****Margin
+//Margin-top
+$margin-top--1: 0.1rem;
+$margin-top--2: 0.2rem;
+$margin-top--3: 0.3rem;
+$margin-top--4: 0.4rem;
+$margin-top--5: 0.5rem;
+$margin-top--6: 0.6rem;
+$margin-top--20: 2rem;
+$margin-top--25: 2.5rem;
+$margin-top--30: 3rem;
+$margin-top--40: 4rem;
+
+//Margin-bottom
+$margin-bottom--25: 2.5rem;
+
+//Padding
+
+//Query map
+$break-points: (
+  "break-point-xsmall": 350px,
+  "break-point-small": 400px,
+  "break-point-medium": 600px,
+  "break-point-tablet": 800px,
+  "break-point-desktop": 1300px,
+);
+
+@function break-point($break-point-limit) {
+  @return map-get($break-points, $break-point-limit);
+}
+
+//Media Query Mixins
+@mixin media-xsmall {
+  @media screen and (max-width: break-point(break-point-xsmall)) {
+    @content;
+  }
+}
+@mixin media-small {
+  @media screen and (max-width: break-point(break-point-small)) {
+    @content;
+  }
+}
+@mixin media-medium {
+  @media screen and (max-width: break-point(break-point-medium)) {
+    @content;
+  }
+}
+@mixin media-tablet {
+  @media screen and (max-width: break-point(break-point-tablet)) {
+    @content;
+  }
+}
+@mixin media-desktop {
+  @media screen and (max-width: break-point(break-point-desktop)) {
+    @content;
+  }
+}

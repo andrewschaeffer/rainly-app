@@ -1,0 +1,26 @@
+@use "aa-index" as i;
+
+//Margin between footer and cards
+main {
+  padding-bottom: i.$margin-top--25;
+}
+
+.footer-section {
+  font-size: i.$text-base;
+  margin-bottom: i.$margin-top--25;
+}
+
+.credits {
+  text-align: center;
+}
+
+.credit-link:link,
+.credit-link:visited {
+  font-weight: i.$font-semibold;
+  font-size: i.$text-lg;
+  transition: all 300ms ease-in;
+}
+.credit-link:hover,
+.credit-link:active {
+  color: i.$color-primary;
+}
